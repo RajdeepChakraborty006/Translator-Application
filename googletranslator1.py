@@ -4,7 +4,7 @@ from tkinter import ttk
 
 from googletrans import Translator,LANGUAGES # importing the google translator module and languages
 
-# Translator ka kaam
+# function for the translator
 
 def change(text="type",src="English",dest="Hindi"):
     text1=text
